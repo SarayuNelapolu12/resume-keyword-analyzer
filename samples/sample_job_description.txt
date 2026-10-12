@@ -1,0 +1,30 @@
+Position: Full-Stack & AI Software Engineer
+Company: CloudScale Innovations
+Location: San Francisco, CA (Hybrid)
+
+ABOUT THE ROLE:
+CloudScale Innovations is seeking a talented Full-Stack & AI Software Engineer to design and scale our next-generation enterprise SaaS platform. In this role, you will architect resilient backend microservices, construct responsive user interfaces, and integrate modern Machine Learning capabilities into our production platform.
+
+RESPONSIBILITIES:
+- Design, build, and deploy reliable web services using Python, FastAPI, and Flask.
+- Develop dynamic, user-friendly frontend components using React, JavaScript, HTML, and CSS.
+- Build high-throughput REST API endpoints and integrate backend systems with Node.js and Python microservices.
+- Design and optimize scalable relational (SQL) and NoSQL (MongoDB) databases.
+- Containerize services using Docker and orchestrate scalable deployments on AWS (Amazon Web Services).
+- Incorporate Machine Learning features into application workflows to provide intelligent customer insights.
+- Collaborate across cross-functional product and engineering teams with excellent communication skills.
+- Maintain code repositories, version control workflows, and code review processes using Git and GitHub on Linux systems.
+- Solve complex algorithmic challenges leveraging solid knowledge of Data Structures and Algorithms.
+
+MINIMUM QUALIFICATIONS:
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field.
+- Proficiency in Python and JavaScript programming languages.
+- Practical experience with modern backend frameworks such as FastAPI or Flask.
+- Working knowledge of frontend development with React, HTML, and CSS.
+- Experience with REST API design, API documentation, and testing.
+- Hands-on experience with SQL databases and familiarity with MongoDB.
+- Knowledge of containerization with Docker and cloud hosting on AWS.
+- Fundamental understanding of Machine Learning concepts and practical application.
+- Solid foundation in Data Structures, Algorithms, and clean software architecture.
+- Experience with Git, GitHub, and Linux environments.
+- Strong verbal and written communication skills and ability to thrive in a collaborative agile environment.
